@@ -1,0 +1,14 @@
+{
+  "name": "@lailson93/1111d3-com-crossfilter-e-dc-js",
+  "main": "d/e20203f6f026d7ba.js",
+  "version": "224.0.0",
+  "homepage": "https://observablehq.com/@lailson93/1111d3-com-crossfilter-e-dc-js",
+  "author": {
+    "name": "LailsonAzevedo",
+    "url": "https://observablehq.com/@lailson93"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
