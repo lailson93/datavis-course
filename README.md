@@ -1,3 +1,6 @@
+## Aula do dia 23/09/2019
+[index.html](d3_crossfilter/1111d3-com-crossfilter-e-dc-js/index.html)<br>
+
 ## Aula do dia 16/09/2019
 [scartter_plot.html](d3_update/scartter_plot.html)<br>
 
