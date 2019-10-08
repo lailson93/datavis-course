@@ -1,3 +1,6 @@
+## Aula do dia 30/09/2019
+[leaflet-terremotos.html](d3_leaflet/d3-com-crossfilter-dc-js-e-leaflet/index.html)<br>
+
 ## Aula do dia 23/09/2019
 [index-parte1.html](d3_crossfilter/1111d3-com-crossfilter-e-dc-js/index.html)<br>
 [index-parte2.html](d3_crossfilter/d3-com-crossfilter-e-dc-js-parte-2/index.html)<br>
