@@ -1,0 +1,14 @@
+{
+  "name": "@lailson93/les-miserables-network",
+  "main": "d/eeaec09eaf058e60.js",
+  "version": "121.0.0",
+  "homepage": "https://observablehq.com/@lailson93/les-miserables-network",
+  "author": {
+    "name": "LailsonAzevedo",
+    "url": "https://observablehq.com/@lailson93"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
