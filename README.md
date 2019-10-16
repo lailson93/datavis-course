@@ -1,6 +1,6 @@
 ## Aula do dia 09/10/2019
-[similar-song-network.html](datavis-course/d3_network/similar-song-network/index.html)<br>
-[les-miserables-network.html](datavis-course/d3_network/les-miserables-network/index.html)<br>
+[similar-song-network.html](d3_network/similar-song-network/index.html)<br>
+[les-miserables-network.html](d3_network/les-miserables-network/index.html)<br>
 
 ## Aula do dia 30/09/2019
 [leaflet-terremotos.html](d3_leaflet/d3-com-crossfilter-dc-js-e-leaflet/index.html)<br>
