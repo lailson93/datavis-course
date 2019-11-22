@@ -1,3 +1,7 @@
+## Aula do dia 23/10/2019
+[d3-com-crossfilter-dc-js-e-leaflet-parte-2.html](d3_interactive/d3-com-crossfilter-dc-js-e-leaflet-parte-2/index.html)<br>
+[taxa-de-desemprego-nos-eua-em-agosto-de-2016-parte-2.html](d3_interactive/taxa-de-desemprego-nos-eua-em-agosto-de-2016-parte-2/index.html)<br>
+
 ## Aula do dia 16/10/2019
 [homicidios-em-fortaleza-em-2012.html](d3_color/homicidios-em-fortaleza-em-2012/index.html)<br>
 [taxa-de-desemprego-nos-eua-em-agosto-de-2016.html](d3_color/taxa-de-desemprego-nos-eua-em-agosto-de-2016/index.html)<br>
